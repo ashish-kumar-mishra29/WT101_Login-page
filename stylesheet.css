@@ -1,0 +1,51 @@
+body {
+  background-color: pink;
+}
+h4 :hover{
+  text-align: center;
+
+}
+
+header {
+  text-align: center;
+  background-color: grey;
+  padding: 30px;
+  font-size: 25px;
+  font-family:"Arial", sans-serif;
+}
+.main {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+.form {
+  padding: 40px;
+  background-color: orange;
+  box-sizing: border-box;
+  border: 2px solid rgb(100, 11, 11);
+  box-shadow: 100px;
+  text-align: center;
+}
+.form h4 {
+  font-size: 30px;
+}
+.form label {
+  font-size: 15px;
+  font-family:, sans-serif;
+  font-weight: 600;
+}
+table {
+  text-align: center;
+  border: solid 4px;
+}
+td ,td{
+  border: solid 2px;
+}
+
+.form input {
+  background-color: white;
+  font-size: 15px;
+  width: 40%;
+  border: bold-black;
+  height: 30px;
+  border-radius: 15px;
+}
